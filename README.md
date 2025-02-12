@@ -10,4 +10,4 @@ PS: The reason I did not win:
 - miner bribe too low, others give more miner bribe to the flashbots miner
 - too many TXs in the bundle, miners would just ignore those bundles with too many txs coz it might take too much time for them to simulate the Txs
 
-# chi dex
+# chi dex dex chi

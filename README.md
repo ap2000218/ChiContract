@@ -11,3 +11,4 @@ PS: The reason I did not win:
 - too many TXs in the bundle, miners would just ignore those bundles with too many txs coz it might take too much time for them to simulate the Txs
 
 # chi dex dex chi
+# chi dex
